@@ -2,11 +2,16 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import Balance from './js/Balance'
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <App>
+      
+    </App>
+    <Balance />
+    
   </React.StrictMode>,
   document.getElementById('root')
 );
