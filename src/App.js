@@ -8,13 +8,13 @@ function App() {
         
           <div className="options">
             <a>
-              My Wallet 
+              My Wallet
             </a>
             <a>
-              Transfer 
+              Transfer
             </a>
             <div>
-              Accounts 
+              Accounts
             </div>
           </div>
           <select>
