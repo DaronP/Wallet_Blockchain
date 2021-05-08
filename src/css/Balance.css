@@ -1,6 +1,6 @@
 .balance{
     position: relative;
-    background-color:#b8b4b8;
+    background-color:#242324;
     min-height: 75vh;
     display: flex;
     flex-direction: column;
@@ -37,4 +37,15 @@ a{
     border-width: 2px;
     border-bottom: 2px white solid;
     width: 50%;
+}
+
+.btn-primary {
+    background-color: #007bff; /* Green */
+    border: #007bff;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
 }

@@ -19,13 +19,13 @@ function App() {
           </div>
           <select>
             <option>
-              Holis
+              Ethereum
             </option>
             <option>
-              wdawdawd
+              Dogecoin
             </option>
             <option>
-              ghdfgsefse
+              Criptokitty
             </option>
           </select>
 
